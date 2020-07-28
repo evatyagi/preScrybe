@@ -9,12 +9,17 @@
 import UIKit
 
 class ViewController: UIViewController {
+    
+@IBOutlet weak var prescrybeLogo: UIImageView!
 
     override func viewDidLoad() {
         super.viewDidLoad()
-        // Do any additional setup after loading the view.
+        
+        prescrybeLogo.layer.masksToBounds = true
+          prescrybeLogo.layer.cornerRadius = prescrybeLogo.bounds.width / 2
+        
     }
-
+    
 
 }
 
