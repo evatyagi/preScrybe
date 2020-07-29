@@ -14,7 +14,7 @@
 		A6916CCC24D06C200072051A /* preScrybe.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = A6916CCA24D06C200072051A /* preScrybe.xcdatamodeld */; };
 		A6916CCE24D06C290072051A /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A6916CCD24D06C290072051A /* Assets.xcassets */; };
 		A6916CD124D06C290072051A /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A6916CCF24D06C290072051A /* LaunchScreen.storyboard */; };
-		A6916CDB24D084EC0072051A /* noAccountViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A6916CDA24D084EC0072051A /* noAccountViewController.swift */; };
+		A6ABFAEF24D1BE5D000CC7D9 /* informationViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A6ABFAEE24D1BE5D000CC7D9 /* informationViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -27,7 +27,7 @@
 		A6916CCD24D06C290072051A /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		A6916CD024D06C290072051A /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		A6916CD224D06C290072051A /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		A6916CDA24D084EC0072051A /* noAccountViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = noAccountViewController.swift; sourceTree = "<group>"; };
+		A6ABFAEE24D1BE5D000CC7D9 /* informationViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = informationViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -68,7 +68,7 @@
 				A6916CCF24D06C290072051A /* LaunchScreen.storyboard */,
 				A6916CD224D06C290072051A /* Info.plist */,
 				A6916CCA24D06C200072051A /* preScrybe.xcdatamodeld */,
-				A6916CDA24D084EC0072051A /* noAccountViewController.swift */,
+				A6ABFAEE24D1BE5D000CC7D9 /* informationViewController.swift */,
 			);
 			path = preScrybe;
 			sourceTree = "<group>";
@@ -144,11 +144,11 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				A6916CDB24D084EC0072051A /* noAccountViewController.swift in Sources */,
 				A6916CC624D06C200072051A /* ViewController.swift in Sources */,
 				A6916CCC24D06C200072051A /* preScrybe.xcdatamodeld in Sources */,
 				A6916CC224D06C200072051A /* AppDelegate.swift in Sources */,
 				A6916CC424D06C200072051A /* SceneDelegate.swift in Sources */,
+				A6ABFAEF24D1BE5D000CC7D9 /* informationViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
