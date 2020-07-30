@@ -12,14 +12,21 @@ class ViewController: UIViewController {
     
 @IBOutlet weak var prescrybeLogo: UIImageView!
 
+    
     override func viewDidLoad() {
         super.viewDidLoad()
         
         prescrybeLogo.layer.masksToBounds = true
-          prescrybeLogo.layer.cornerRadius = prescrybeLogo.bounds.width / 2
+        prescrybeLogo.layer.cornerRadius = prescrybeLogo.bounds.width / 2
         
     }
+      
+       }
+       
+  
+    
+           
     
 
-}
+
 

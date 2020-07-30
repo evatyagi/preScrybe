@@ -15,6 +15,11 @@
 		A6916CCE24D06C290072051A /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A6916CCD24D06C290072051A /* Assets.xcassets */; };
 		A6916CD124D06C290072051A /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A6916CCF24D06C290072051A /* LaunchScreen.storyboard */; };
 		A6ABFAEF24D1BE5D000CC7D9 /* informationViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A6ABFAEE24D1BE5D000CC7D9 /* informationViewController.swift */; };
+		AE6AA61224D3166100662A27 /* latinViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = AE6AA60E24D3166100662A27 /* latinViewController.swift */; };
+		AE6AA61324D3166100662A27 /* BlackResViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = AE6AA60F24D3166100662A27 /* BlackResViewController.swift */; };
+		AE6AA61424D3166100662A27 /* lowIncomeView.swift in Sources */ = {isa = PBXBuildFile; fileRef = AE6AA61024D3166100662A27 /* lowIncomeView.swift */; };
+		AE6AA61524D3166100662A27 /* nativeViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = AE6AA61124D3166100662A27 /* nativeViewController.swift */; };
+		AE6AA61724D31EB500662A27 /* resourcesViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = AE6AA61624D31EB500662A27 /* resourcesViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -28,6 +33,11 @@
 		A6916CD024D06C290072051A /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		A6916CD224D06C290072051A /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		A6ABFAEE24D1BE5D000CC7D9 /* informationViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = informationViewController.swift; sourceTree = "<group>"; };
+		AE6AA60E24D3166100662A27 /* latinViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = latinViewController.swift; sourceTree = "<group>"; };
+		AE6AA60F24D3166100662A27 /* BlackResViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = BlackResViewController.swift; sourceTree = "<group>"; };
+		AE6AA61024D3166100662A27 /* lowIncomeView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = lowIncomeView.swift; sourceTree = "<group>"; };
+		AE6AA61124D3166100662A27 /* nativeViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = nativeViewController.swift; sourceTree = "<group>"; };
+		AE6AA61624D31EB500662A27 /* resourcesViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = resourcesViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -64,11 +74,16 @@
 				A6916CC324D06C200072051A /* SceneDelegate.swift */,
 				A6916CC524D06C200072051A /* ViewController.swift */,
 				A6916CC724D06C200072051A /* Main.storyboard */,
+				AE6AA60F24D3166100662A27 /* BlackResViewController.swift */,
+				AE6AA60E24D3166100662A27 /* latinViewController.swift */,
+				AE6AA61024D3166100662A27 /* lowIncomeView.swift */,
+				AE6AA61124D3166100662A27 /* nativeViewController.swift */,
 				A6916CCD24D06C290072051A /* Assets.xcassets */,
 				A6916CCF24D06C290072051A /* LaunchScreen.storyboard */,
 				A6916CD224D06C290072051A /* Info.plist */,
 				A6916CCA24D06C200072051A /* preScrybe.xcdatamodeld */,
 				A6ABFAEE24D1BE5D000CC7D9 /* informationViewController.swift */,
+				AE6AA61624D31EB500662A27 /* resourcesViewController.swift */,
 			);
 			path = preScrybe;
 			sourceTree = "<group>";
@@ -147,7 +162,12 @@
 				A6916CC624D06C200072051A /* ViewController.swift in Sources */,
 				A6916CCC24D06C200072051A /* preScrybe.xcdatamodeld in Sources */,
 				A6916CC224D06C200072051A /* AppDelegate.swift in Sources */,
+				AE6AA61224D3166100662A27 /* latinViewController.swift in Sources */,
+				AE6AA61324D3166100662A27 /* BlackResViewController.swift in Sources */,
+				AE6AA61524D3166100662A27 /* nativeViewController.swift in Sources */,
+				AE6AA61724D31EB500662A27 /* resourcesViewController.swift in Sources */,
 				A6916CC424D06C200072051A /* SceneDelegate.swift in Sources */,
+				AE6AA61424D3166100662A27 /* lowIncomeView.swift in Sources */,
 				A6ABFAEF24D1BE5D000CC7D9 /* informationViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
