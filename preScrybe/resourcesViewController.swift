@@ -2,7 +2,7 @@
 //  resourcesViewController.swift
 //  preScrybe
 //
-//  Created by Mariam Ayesh on 7/30/20.
+//  Created by Mariam A on 7/30/20.
 //  Copyright © 2020 Eva Tyagi. All rights reserved.
 //
 
