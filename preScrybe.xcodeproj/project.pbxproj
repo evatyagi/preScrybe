@@ -15,10 +15,10 @@
 		A6916CCE24D06C290072051A /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A6916CCD24D06C290072051A /* Assets.xcassets */; };
 		A6916CD124D06C290072051A /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A6916CCF24D06C290072051A /* LaunchScreen.storyboard */; };
 		A6ABFAEF24D1BE5D000CC7D9 /* informationViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A6ABFAEE24D1BE5D000CC7D9 /* informationViewController.swift */; };
-		AE69190924D4542800FB8D9F /* todoTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = AE69190824D4542800FB8D9F /* todoTableViewController.swift */; };
-		AE69190B24D4542E00FB8D9F /* ToDo.swift in Sources */ = {isa = PBXBuildFile; fileRef = AE69190A24D4542D00FB8D9F /* ToDo.swift */; };
-		AE69190D24D4543C00FB8D9F /* CompleteToDoViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = AE69190C24D4543C00FB8D9F /* CompleteToDoViewController.swift */; };
-		AE69190F24D4544200FB8D9F /* AddToDoViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = AE69190E24D4544200FB8D9F /* AddToDoViewController.swift */; };
+		A6F8AD9E24D45BD50084A2C3 /* CompleteToDoViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A6F8AD9C24D45BD50084A2C3 /* CompleteToDoViewController.swift */; };
+		A6F8ADA124D45BEE0084A2C3 /* ToDo.swift in Sources */ = {isa = PBXBuildFile; fileRef = A6F8ADA024D45BED0084A2C3 /* ToDo.swift */; };
+		A6F8ADA424D45C260084A2C3 /* todoTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A6F8ADA224D45C260084A2C3 /* todoTableViewController.swift */; };
+		A6F8ADA524D45C260084A2C3 /* AddToDoViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A6F8ADA324D45C260084A2C3 /* AddToDoViewController.swift */; };
 		AE69191124D4546D00FB8D9F /* AddRDA.swift in Sources */ = {isa = PBXBuildFile; fileRef = AE69191024D4546D00FB8D9F /* AddRDA.swift */; };
 		AE69191324D4547800FB8D9F /* SlideRDA.swift in Sources */ = {isa = PBXBuildFile; fileRef = AE69191224D4547800FB8D9F /* SlideRDA.swift */; };
 		AE6AA61224D3166100662A27 /* latinViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = AE6AA60E24D3166100662A27 /* latinViewController.swift */; };
@@ -39,10 +39,10 @@
 		A6916CD024D06C290072051A /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		A6916CD224D06C290072051A /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		A6ABFAEE24D1BE5D000CC7D9 /* informationViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = informationViewController.swift; sourceTree = "<group>"; };
-		AE69190824D4542800FB8D9F /* todoTableViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = todoTableViewController.swift; path = ../../../Downloads/todoTableViewController.swift; sourceTree = "<group>"; };
-		AE69190A24D4542D00FB8D9F /* ToDo.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = ToDo.swift; path = ../../../Downloads/ToDo.swift; sourceTree = "<group>"; };
-		AE69190C24D4543C00FB8D9F /* CompleteToDoViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = CompleteToDoViewController.swift; path = ../../../Downloads/CompleteToDoViewController.swift; sourceTree = "<group>"; };
-		AE69190E24D4544200FB8D9F /* AddToDoViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = AddToDoViewController.swift; path = ../../../Downloads/AddToDoViewController.swift; sourceTree = "<group>"; };
+		A6F8AD9C24D45BD50084A2C3 /* CompleteToDoViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = CompleteToDoViewController.swift; path = ../../../Downloads/CompleteToDoViewController.swift; sourceTree = "<group>"; };
+		A6F8ADA024D45BED0084A2C3 /* ToDo.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = ToDo.swift; path = ../../../Downloads/ToDo.swift; sourceTree = "<group>"; };
+		A6F8ADA224D45C260084A2C3 /* todoTableViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = todoTableViewController.swift; path = ../../../Downloads/todoTableViewController.swift; sourceTree = "<group>"; };
+		A6F8ADA324D45C260084A2C3 /* AddToDoViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = AddToDoViewController.swift; path = ../../../Downloads/AddToDoViewController.swift; sourceTree = "<group>"; };
 		AE69191024D4546D00FB8D9F /* AddRDA.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AddRDA.swift; sourceTree = "<group>"; };
 		AE69191224D4547800FB8D9F /* SlideRDA.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SlideRDA.swift; sourceTree = "<group>"; };
 		AE6AA60E24D3166100662A27 /* latinViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = latinViewController.swift; sourceTree = "<group>"; };
@@ -86,13 +86,13 @@
 				A6916CC324D06C200072051A /* SceneDelegate.swift */,
 				A6916CC524D06C200072051A /* ViewController.swift */,
 				A6916CC724D06C200072051A /* Main.storyboard */,
-				AE69190824D4542800FB8D9F /* todoTableViewController.swift */,
-				AE69190C24D4543C00FB8D9F /* CompleteToDoViewController.swift */,
-				AE69190E24D4544200FB8D9F /* AddToDoViewController.swift */,
+				A6F8ADA324D45C260084A2C3 /* AddToDoViewController.swift */,
+				A6F8ADA224D45C260084A2C3 /* todoTableViewController.swift */,
+				A6F8AD9C24D45BD50084A2C3 /* CompleteToDoViewController.swift */,
 				AE69191024D4546D00FB8D9F /* AddRDA.swift */,
 				AE69191224D4547800FB8D9F /* SlideRDA.swift */,
-				AE69190A24D4542D00FB8D9F /* ToDo.swift */,
 				AE6AA60F24D3166100662A27 /* BlackResViewController.swift */,
+				A6F8ADA024D45BED0084A2C3 /* ToDo.swift */,
 				AE6AA60E24D3166100662A27 /* latinViewController.swift */,
 				AE6AA61024D3166100662A27 /* lowIncomeView.swift */,
 				AE6AA61124D3166100662A27 /* nativeViewController.swift */,
@@ -178,19 +178,19 @@
 			buildActionMask = 2147483647;
 			files = (
 				A6916CC624D06C200072051A /* ViewController.swift in Sources */,
-				AE69190D24D4543C00FB8D9F /* CompleteToDoViewController.swift in Sources */,
 				A6916CCC24D06C200072051A /* preScrybe.xcdatamodeld in Sources */,
-				AE69190F24D4544200FB8D9F /* AddToDoViewController.swift in Sources */,
 				A6916CC224D06C200072051A /* AppDelegate.swift in Sources */,
 				AE69191124D4546D00FB8D9F /* AddRDA.swift in Sources */,
-				AE69190924D4542800FB8D9F /* todoTableViewController.swift in Sources */,
+				A6F8ADA524D45C260084A2C3 /* AddToDoViewController.swift in Sources */,
 				AE6AA61224D3166100662A27 /* latinViewController.swift in Sources */,
 				AE6AA61324D3166100662A27 /* BlackResViewController.swift in Sources */,
-				AE69190B24D4542E00FB8D9F /* ToDo.swift in Sources */,
 				AE6AA61524D3166100662A27 /* nativeViewController.swift in Sources */,
 				AE6AA61724D31EB500662A27 /* resourcesViewController.swift in Sources */,
 				A6916CC424D06C200072051A /* SceneDelegate.swift in Sources */,
 				AE6AA61424D3166100662A27 /* lowIncomeView.swift in Sources */,
+				A6F8ADA124D45BEE0084A2C3 /* ToDo.swift in Sources */,
+				A6F8AD9E24D45BD50084A2C3 /* CompleteToDoViewController.swift in Sources */,
+				A6F8ADA424D45C260084A2C3 /* todoTableViewController.swift in Sources */,
 				AE69191324D4547800FB8D9F /* SlideRDA.swift in Sources */,
 				A6ABFAEF24D1BE5D000CC7D9 /* informationViewController.swift in Sources */,
 			);
